@@ -1,5 +1,7 @@
 # CrawlerPrototype简介（持续更新中）
 
+![](https://img.shields.io/badge/python-3.0%2B-green.svg)
+
 ### 背景
 &emsp;&emsp;随着互联网的快速兴起，网页app等互联网门户积累了大量的且有价值的数据，而数据处理与分析一类的操作又亟需相关数据的收集，因而催生出一种特殊的技术应用：爬虫。近些年来，优秀的爬虫框架频频出现在大众的视野下，他们各有其特点。  
 &emsp;&emsp;在平时研究学习中，自然少不了使用爬虫技术做相关数据的收集，但每个数据源的网页都有其独特的结构，我们需要根据其特点采用不同的爬虫框架来加速我们的采集效率。  
@@ -12,8 +14,10 @@
 | :-: | :-: | :-: | :-: |
 | 1 | scrapyDemo(MySQL) | Scrapy MySQL | scrapy 原型同时连接 MySQL 数据库  |
  
-  
-### 关于我  
+ 
+
+
+### 关于我  [![Github](https://github.frapsoft.com/social/github.png)](https://printlnmylove.github.io/)  
 这是我的github博客：https://printlnmylove.github.io/  
 我的联系方式：AustinWang_wqb@163.com
  
