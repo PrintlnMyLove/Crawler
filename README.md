@@ -1,6 +1,6 @@
 # CrawlerPrototype简介（持续更新中）
 
-![](https://img.shields.io/badge/python-3.0%2B-green.svg)
+![](https://img.shields.io/badge/python-3.0%2B-green.svg)&emsp;![](https://img.shields.io/badge/Scrapy-1.3%2B-green.svg)&emsp;![](https://img.shields.io/badge/Powered%20by-AustinWang-brightgreen.svg) 
 
 ### 背景
 &emsp;&emsp;随着互联网的快速兴起，网页app等互联网门户积累了大量的且有价值的数据，而数据处理与分析一类的操作又亟需相关数据的收集，因而催生出一种特殊的技术应用：爬虫。近些年来，优秀的爬虫框架频频出现在大众的视野下，他们各有其特点。  
